@@ -8,9 +8,11 @@ Welcome to my GitHub profile! I'm Muntasir Udoy ([@muntasirudoy](https://github.
 - 🌱 Currently learning: Cloud technologies, DevOps, and AI/ML
 - 🛠️ Languages & Tools:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+  ![Next JS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
