@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm Muntasir Udoy ([@muntasirudoy](https://github.
 - 💻 Software Developer specializing in full-stack development
 - 🌱 Currently learning: Cloud technologies, DevOps, and AI/ML
 - 🛠️ Languages & Tools:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript?style=flat-square&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScrip-whitet?style=flat-square&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
